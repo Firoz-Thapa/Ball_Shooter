@@ -9,4 +9,3 @@ This is a simple game concept. Where you can shoot the balls.
 
 (https://youtu.be/8V5j4f29EyA)
 
-#Note:- This project is still on a build state.
